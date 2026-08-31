@@ -1,11 +1,5 @@
-os
 streamlit
-pypdf
-sentence_transformers
+mistralai
 chromadb
-mistralai.client
-dotenv
-PdfReader
-SentenceTransformer
-Mistral
-load_dotenv
+sentence-transformers
+pypdf
