@@ -3,3 +3,4 @@ mistralai
 chromadb
 sentence-transformers
 pypdf
+PdfReader
