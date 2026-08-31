@@ -7,3 +7,5 @@ mistralai.client
 dotenv
 PdfReader
 SentenceTransformer
+Mistral
+load_dotenv
