@@ -6,3 +6,4 @@ chromadb
 mistralai.client
 dotenv
 PdfReader
+SentenceTransformer
