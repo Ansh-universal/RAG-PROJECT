@@ -4,3 +4,5 @@ chromadb
 sentence-transformers
 pypdf
 PdfReader
+torch
+torchvision
